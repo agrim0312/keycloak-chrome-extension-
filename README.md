@@ -3,6 +3,10 @@
 
 ---
 
+<div align="center">
+  <img src="keycloak.png" alt="Logo" width="200"/>
+</div>
+
 **Keycloak Chrome Extension**
 
 The Keycloak Chrome Extension simplifies data sharing by swiftly generating QR codes from active tabs. This user-friendly tool enhances accessibility, allowing quick conversion of URLs into scannable codes for efficient sharing and storage.
@@ -14,3 +18,5 @@ Features:
 
 --- 
 
+screenshot-
+![Alt text](image-1280x800.jpg)
